@@ -125,10 +125,14 @@
                 "low": "&7Heavily Damaged"
             },
             "account.": {
-                "invalid_username": "&7Invalid username!",
-                "invalid_password": "&7Invalid password!",
+                "invalid_parameter": "&7Invalid Login!",
+                "invalid_user": "&7Invalid Username!",
+                "invalid_password":  "&7Invalid Password!",
+                "login_successful": "&aLogged in successfully!",
+                "password_change_successful": "&aPassword Changed!",
                 "unknown_error": "&7An error occurred",
-                "login_success": "&aLogged in successfully!"
+                "email": "Email",
+                "password": "Password"
             },
             "server_shutdown.": {
                 "*": "Integrated server stopped",
@@ -219,8 +223,6 @@
             "missing_items": "&7Missing Items",
             "missing_tool": "&7Missing Tool",
             "already_known": "You have already obtained this information.",
-            "username": "Username",
-            "password": "Password",
             "stardrop.": {
                 "*": "It reminds you of the valley...",
                 "consume": "You take a taste of the flower. It reminds you of memories that you never knew you had. Suddenly, your mind is filled with thoughts of the valley.\n\n&gYour maximum health has increased by 10!"
