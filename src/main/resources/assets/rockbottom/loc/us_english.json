@@ -124,6 +124,12 @@
                 "medium_low": "&6Damaged",
                 "low": "&7Heavily Damaged"
             },
+            "account.": {
+                "invalid_username": "&7Invalid username!",
+                "invalid_password": "&7Invalid password!",
+                "unknown_error": "&7An error occurred",
+                "login_success": "&aLogged in successfully!"
+            },
             "server_shutdown.": {
                 "*": "Integrated server stopped",
                 "title": "Later guys!"
