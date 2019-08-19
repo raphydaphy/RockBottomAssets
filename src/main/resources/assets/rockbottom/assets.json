@@ -732,10 +732,6 @@
                 "finger": {
                     "path": "/tex/gui/cursor/finger.png",
                     "should_stitch": false
-                },
-                "finger_104": {
-                    "path": "/tex/gui/cursor/finger_104.png",
-                    "should_stitch": false
                 }
             },
             "smithing_table.": {
