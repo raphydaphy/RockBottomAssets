@@ -165,6 +165,7 @@
                 "blacklist": "You are blacklisted on this server! Reason: \n%s",
                 "server_down": "You have lost connection to the server!",
                 "server_full": "The server is currently full!",
+                "invalid_token": "Invalid account token! Try logging in again.",
                 "exception": "There was an exception handling a packet and the connection was closed: \n%s"
             },
             "changelog.": {
