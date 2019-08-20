@@ -126,12 +126,16 @@
             },
             "account.": {
                 "invalid_parameter": "&7Invalid Login!",
-                "invalid_user": "&7Invalid Username!",
+                "invalid_user": "&7Invalid Email!",
                 "invalid_password":  "&7Invalid Password!",
                 "login_successful": "&aLogged in successfully!",
+                "register_successful": "&aAccount created!\n&aCheck your email.",
                 "password_change_successful": "&aPassword Changed!",
                 "unknown_error": "&7An error occurred",
+                "user_already_exists": "&7Username taken!",
+                "email_already_exists": "&7Email taken!",
                 "email": "Email",
+                "username": "Username",
                 "password": "Password"
             },
             "server_shutdown.": {
@@ -319,7 +323,9 @@
             "open_compendium": "Open the Compendium",
             "close_compendium": "Close the Compendium",
             "account_settings": "Account",
-            "login": "Log in",
+            "login": "Log In",
+            "register": "Register",
+            "forgot_password": "Forgot Password",
             "logout": "Log out",
             "stats": "Statistics"
         },
